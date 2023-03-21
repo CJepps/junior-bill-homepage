@@ -1,3 +1,18 @@
 body {
-    background-color: blue;
+  background-image: url(../images/background-texture.jpg);
+  height: 100vh;
+}
+
+footer {
+  background-color: black;
+}
+
+iframe {
+  border-radius: 30px;
+}
+
+.rounded-corners {
+  border-radius: 10px;
+  width: 420px;
+  overflow: hidden;
 }
