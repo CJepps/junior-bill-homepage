@@ -3,12 +3,12 @@ body {
   height: 100vh;
 }
 
-footer {
-  background-color: black;
-}
-
 iframe {
   border-radius: 30px;
+}
+
+img.img-fluid {
+    margin-top: 10vh;
 }
 
 .rounded-corners {
