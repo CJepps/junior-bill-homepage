@@ -8,11 +8,19 @@ iframe {
 }
 
 img.img-fluid {
-    margin-top: 10vh;
+  margin-top: 10vh;
 }
 
 .rounded-corners {
   border-radius: 10px;
   width: 420px;
   overflow: hidden;
+}
+
+#social-logo {
+  color: rgb(246, 245, 245);
+}
+
+.cta {
+  color: white;
 }
